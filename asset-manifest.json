@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Shop/static/css/main.74996944.css",
-    "main.js": "/Shop/static/js/main.88d4b924.js",
-    "static/media/home.jpg": "/Shop/static/media/home.2d833007d078fa25cac5.jpg",
-    "static/media/06.svg": "/Shop/static/media/06.b950f801fea7b19bfe6d6a167c5734c4.svg",
-    "static/media/02.svg": "/Shop/static/media/02.d3111bfecb564e0ef659631a6786b980.svg",
-    "static/media/04.svg": "/Shop/static/media/04.a9e489700a0aa8cf602f386c347f3630.svg",
-    "static/media/03.svg": "/Shop/static/media/03.a572ced86a4d4ccf99d35da3f1ad7cb0.svg",
-    "static/media/05.svg": "/Shop/static/media/05.6b433b9938faf73bd16c562a5d0788c6.svg",
-    "static/media/01.svg": "/Shop/static/media/01.fddf30ba3599c31fd2ce6aa7b3915574.svg",
-    "static/media/header_3.svg": "/Shop/static/media/header_3.406f80368d475c8bfe7124929c4141b2.svg",
-    "static/media/header_2.svg": "/Shop/static/media/header_2.e51548253dde4bfa035c7ba59f4cc087.svg",
-    "index.html": "/Shop/index.html",
-    "static/media/header_1.svg": "/Shop/static/media/header_1.df0f4716a73034146e99ad67bbd03f1f.svg",
-    "main.74996944.css.map": "/Shop/static/css/main.74996944.css.map",
-    "main.88d4b924.js.map": "/Shop/static/js/main.88d4b924.js.map"
+    "main.css": "/Shop_2/static/css/main.9971eb42.css",
+    "main.js": "/Shop_2/static/js/main.614d97a1.js",
+    "static/media/home.jpg": "/Shop_2/static/media/home.2d833007d078fa25cac5.jpg",
+    "static/media/06.svg": "/Shop_2/static/media/06.b950f801fea7b19bfe6d6a167c5734c4.svg",
+    "static/media/02.svg": "/Shop_2/static/media/02.d3111bfecb564e0ef659631a6786b980.svg",
+    "static/media/04.svg": "/Shop_2/static/media/04.a9e489700a0aa8cf602f386c347f3630.svg",
+    "static/media/03.svg": "/Shop_2/static/media/03.a572ced86a4d4ccf99d35da3f1ad7cb0.svg",
+    "static/media/05.svg": "/Shop_2/static/media/05.6b433b9938faf73bd16c562a5d0788c6.svg",
+    "static/media/01.svg": "/Shop_2/static/media/01.fddf30ba3599c31fd2ce6aa7b3915574.svg",
+    "static/media/header_3.svg": "/Shop_2/static/media/header_3.406f80368d475c8bfe7124929c4141b2.svg",
+    "static/media/header_2.svg": "/Shop_2/static/media/header_2.e51548253dde4bfa035c7ba59f4cc087.svg",
+    "index.html": "/Shop_2/index.html",
+    "static/media/header_1.svg": "/Shop_2/static/media/header_1.df0f4716a73034146e99ad67bbd03f1f.svg",
+    "main.9971eb42.css.map": "/Shop_2/static/css/main.9971eb42.css.map",
+    "main.614d97a1.js.map": "/Shop_2/static/js/main.614d97a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.74996944.css",
-    "static/js/main.88d4b924.js"
+    "static/css/main.9971eb42.css",
+    "static/js/main.614d97a1.js"
   ]
 }
